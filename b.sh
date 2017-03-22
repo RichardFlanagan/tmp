@@ -1,1 +1,3 @@
-; ping google.ie
+<?php
+echo(111);
+?>
