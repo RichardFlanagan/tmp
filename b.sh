@@ -1,4 +1,3 @@
-"'; 
-<?php
-echo(111);
+ <?php
+echo "<script>alert('hi');</script>";
 ?>
